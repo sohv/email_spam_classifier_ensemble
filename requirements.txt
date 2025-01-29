@@ -4,7 +4,6 @@ numpy
 matplotlib
 seaborn
 joblib
-pickle
 xgboost
 scikit-learn
 scipy
